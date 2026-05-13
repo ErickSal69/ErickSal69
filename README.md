@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Erick Salvador Lugo
 
-<!--
-**ErickSal69/ErickSal69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software enfocado en desarrollo web y aplicaciones.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- HTML, CSS, JavaScript
+- Angular
+- C#, Python
+- SQL
+- WordPress
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Email: ericksalvadorlugo@gmail.com
