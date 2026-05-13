@@ -1,6 +1,6 @@
 # 👋 Hola, soy Erick Salvador Lugo
 
-💻 Desarrollador de software enfocado en desarrollo web y aplicaciones.
+Desarrollador de software enfocado en desarrollo web y aplicaciones.
 
 ## 🚀 Tecnologías
 - HTML, CSS, JavaScript
